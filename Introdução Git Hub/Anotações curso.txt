@@ -1,0 +1,46 @@
+Pensamento computacional e baseado em 4 pilares
+1 Decomposição = forma de pesquisa, tentar simplificar ou “organizar” a busca para conseguir encontrar um resultado
+2 reconhecimentos de padrões = uma tendencia de padrão de quando há uma mudança, todos seguem ela, um padrão para determinada ação
+3 abstrações
+4Design de algoritmos = definir a solução para o problema
+
+Abstração : processo intelectual de isolamento de um objeto da realidade
+
+Resolvendo problema com pensamento computacional:
+Perdido:
+•	Identificar mecanismos
+•	Recursos comuns
+•	Detalhes mais importantes
+Técnica linear
+Modelo tradicional que não tem vínculo, possui uma estrutura hierárquica e trabalha com programação de computadores.
+
+Técnica estruturada = tem escolhas
+•	Escrita
+•	Entendimento
+•	Validação
+•	Manutenção
+Técnica modular = tem partes independentes
+Necessário dizer o que precisa para cada modulo, dar o caminho, por exemplo:
+Modulo para acordar: O que tenho que fazer para acordar, detalhes
+Modulo para preparar bebida: Saber se a bebida vai ser quente ou fria, a partir dai determinar a bebida.
+
+=======================================
+
+Git e GITRUB ( todos no prompt de comando)
+Comando dir. = trás todas as pastas
+Cd / = entrar em um diretório / pasta
+Usar cd (pasta que quer selecionar ) vai entrar na pasta que deseja
+cd.. = volta a pasta
+cls = limpa a área dos comandos
+clicar TAB vai alto completar
+criar pasta = mkdir ( nome da pasta )
+criar diretório = comando echo (nome do arquivo)
+cls
+del= deletar pasta ou arquivo
+rmdir ( nome da pasta ) /S /Q= deletar arquivo
+
+comandos Git Hub
+git init
+git add
+git commit
+-a = monstra arquivos ocultos
